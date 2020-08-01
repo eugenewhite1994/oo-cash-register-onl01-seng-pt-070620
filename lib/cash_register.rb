@@ -36,5 +36,5 @@ class CashRegister
     if self.total == 0 
       return nil
   end
-
+end
 end
